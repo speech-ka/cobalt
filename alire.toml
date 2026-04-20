@@ -1,0 +1,14 @@
+name = "cobalt"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["speech-ka"]
+maintainers = ["speech-ka <speech-ka@tutamail.com>"]
+maintainers-logins = ["speech-ka"]
+website = ""
+tags = []
+
+executables = ["cobalt"]
+
+[[depends-on]]
+asfml = "^2.6.1"
