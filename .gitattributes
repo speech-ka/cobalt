@@ -1,1 +1,2 @@
 *.gpr linguist-language=Ada
+*.rhai linguist-language=Rhai
